@@ -1,0 +1,19 @@
+main {
+    font: italic bolder 1em sans-serif;
+    background-color: rgb(111, 0, 0);
+    text-align: center;
+    margin: 20%;
+    padding: auto;
+    box-shadow: 3px 3px 25px black ;
+}
+h2{
+    font-size: 2em;
+    color:rgb(0, 0, 90);
+}
+p {
+    font-size: 1em;
+    color:#346B2E;
+}
+h1{
+    color:#35EB1F;
+}
